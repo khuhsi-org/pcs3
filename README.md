@@ -13,3 +13,14 @@ PCS detects failures via Corosync and migrates resources automatically.
 
 ## Results
 Failover occurs without user-visible disruption.
+
+
+
+## Architecture Context
+
+- PCS Architecture Docs:  
+  https://github.com/khushi-org/architecture-docs
+- PCS HA Gateway Design:  
+  https://github.com/khushi-org/pcs-ha-gateway
+- Cloud Deployment Details:  
+  https://github.com/khushi-org/cloud-deployment
